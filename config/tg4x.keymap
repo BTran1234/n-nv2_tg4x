@@ -63,8 +63,8 @@
                 = <&macro_press &kp LSHFT>
                 , <&macro_tap &kp P >
                 , <&macro_release &kp LSHFT>
-                , <&macro_tap &kp A &kp S &kp W &kp O &kp R &kp D>
-                , <&macro_tap &kp 1 &kp 2 &kp 3 &kp 4 &kp AT>
+                , <&macro_tap &kp A &kp S &kp S &kp W &kp O &kp R &kp D>
+                , <&macro_tap &kp N1 &kp N2 &kp N3 &kp N4 &kp AT>
                 ;
         };
     };
